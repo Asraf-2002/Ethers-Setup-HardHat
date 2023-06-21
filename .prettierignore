@@ -1,0 +1,9 @@
+node_modules
+package.json
+artifacts
+cache
+covrage
+.env
+.*
+README.md
+covrage.json
